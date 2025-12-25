@@ -31,7 +31,7 @@ var doAddYorum = async function (req, res, mekan, author) {
     } else {
         mekan.comments.push({
             author: author,
-            rating: req.body.rating,
+            rating: parseInt(req.body.rating, 10),
             text: req.body.text
         });
 
