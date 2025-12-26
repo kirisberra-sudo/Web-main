@@ -10,7 +10,7 @@ Venue API, konum tabanlı mekan keşfi, kullanıcı etkileşimi (yorumlar) ve g�
 
 🔗 **Canlı Sunucu (Production):** [https://web-main-6uw3.vercel.app](https://web-main-6uw3.vercel.app)
     
-   **Backand Adresi:**[web-main-three.vercel.app](web-main-three.vercel.app)
+🔗 **Backand Adresi:**[web-main-three.vercel.app](web-main-three.vercel.app)
 
 ---
 
